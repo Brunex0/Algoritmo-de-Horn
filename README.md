@@ -1,4 +1,5 @@
-Trabalho Prático - Algoritmo de Horn:
+## Trabalho Prático - Algoritmo de Horn:  
+
 Começámos por percorrer o standard input de caracter a caracter até encontrarmos uma nova linha, em qual momento processamos o input segundo o Algoritmo de Horn
 e escrevemos o output de acordo com o tipo de fórmula (Não formula de Horn (NA), contraditória (UNSAT) e possível (SAT)).
 Fazemos isto até encontrarmos o End-of-File, em qual momento paramos o programa.
